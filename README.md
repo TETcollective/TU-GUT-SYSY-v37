@@ -10,8 +10,7 @@ tetcollective.org | tetcollective@proton.me
 **Publication date**: December 2025  
 **Version**: v37 (Definitive)
 
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  <!-- SOSTITUISCI con DOI reale dopo pubblicazione -->
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ## Abstract
 
@@ -42,12 +41,19 @@ All work by Simon Soliman. AI tools used only as assistants – no co-authorship
 - Vacuum Torque v2: https://doi.org/10.5281/zenodo.17993196
 - COSMOBOOT v2.0: https://doi.org/10.5281/zenodo.17995268
 
-## License
+## Copyright and Usage Rights
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
-Commercial applications require explicit permission.
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
 
-Full license: https://creativecommons.org/licenses/by-nc/4.0/
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ## Contact
 
